@@ -5,7 +5,7 @@ Hello, I’m @zhangms1709
 Background facts:
 - I’m interested in philosophy and computer science
 - I’m currently learning about applied ethics, geologic systems, moral philosophy in Dostoevsky, and OOP
-- I have done various projects involving data analysis and amchine learning in R and Python under my wonderful mentor Steven P. Brady
+- I have done various projects involving data analysis and machine learning in R and Python under my wonderful mentor Steven P. Brady
 
 📫 I can be reached at mason_zhang1@brown.edu :)
 
