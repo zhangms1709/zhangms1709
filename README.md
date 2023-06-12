@@ -5,7 +5,7 @@ Hello, I’m @zhangms1709
 Background facts:
 - I’m interested in philosophy and computer science
 - I specialize in Kantian moral philosophy and Plato on one hand, and Machine Learning and UI/UX on the other hand
-- I worked on various projects with big data and supervised learning under my wonderful mentor Steven P. Brady and Avi Ma'ayan
+- I work on projects with big data and supervised learning under [Avi Ma'ayan](https://labs.icahn.mssm.edu/maayanlab/) and [Steven P. Brady](http://bradylab.weebly.com/) in the past
 
 📫 I can be reached at mason_zhang1@brown.edu :)
 
