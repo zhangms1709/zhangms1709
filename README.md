@@ -9,6 +9,6 @@ Background facts:
 
 📫 I can be reached at mason_zhang1@brown.edu :)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=zhangms1709.zhangms1709&color=00cf00)
+<!--![visitors](https://vbr.wocr.tk/badge?page_id=zhangms1709.zhangms1709&color=00cf00)-->
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9056--9193-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9056-9193)
