@@ -4,7 +4,7 @@ Hello, I’m @zhangms1709
 
 Background facts:
 - I’m interested in philosophy and computer science
-- I'm the software development team lead for Hack@Brown, Brown's largest student hackathon.
+- I'm the software development team lead for Hack@Brown, Brown's largest student hackathon. Check out the website we developed [here](https://2024.hackatbrown.org/)!
 - I enjoy Kantian moral philosophy and Plato on one hand; Machine Learning and Bioinformatics on the other hand
 - I worked on projects with big data and supervised learning under [Avi Ma'ayan](https://labs.icahn.mssm.edu/maayanlab/) and [Steven P. Brady](http://bradylab.weebly.com/) in the past
 - I am currently doing spatial transcriptomics and machine learning research with [Ying Ma](https://yingma0107.github.io/) at Brown's Center of Computational Molecular Biology
